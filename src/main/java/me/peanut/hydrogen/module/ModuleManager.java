@@ -52,6 +52,7 @@ public class ModuleManager {
         add(new ESP());
         add(new TriggerBot());
         add(new NoBob());
+        add(new JumpReset());
 
         // 1.2
 
